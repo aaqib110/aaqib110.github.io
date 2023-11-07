@@ -511,12 +511,12 @@ section {
 .section-title p {
   margin: 0 auto;
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
   color: #37423b;
   border-bottom: 5px solid #5fcf80; 
-  width: 25%;
+  width: 20%;
 }
 
 .breadcrumbs {
@@ -547,8 +547,8 @@ section {
 # Projects
 --------------------------------------------------------------*/
 .img-project{
-  width: 600px;
-  height: 300px;
+  width: 100%;
+  height: auto;
   border-radius:0px 50px 0px 50px;
   vertical-align: middle;
   box-shadow: -10px 10px 0px 0px rgba(226,228,233,1);
